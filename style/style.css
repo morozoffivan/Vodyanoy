@@ -1,0 +1,18 @@
+.navbar-toggler {
+    color: #3282B8;
+}
+
+.logo {
+    width: 30%;
+}
+.container img {
+    width: 15rem;
+}
+
+.carousel-inner svg {
+    height: 25rem;
+}
+
+.nav-item {
+    text-align: center;
+}
